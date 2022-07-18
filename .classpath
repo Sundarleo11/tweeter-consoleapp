@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="resources/" kind="src" path="TweetApp/src"/>
+	<classpathentry kind="src" path="TweetApp/src/resources"/>
+	<classpathentry kind="lib" path="C:/Users/Elcot/Documents/TwitterConsole-main/TweetApp/src/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elcot/Documents/TwitterConsole-main/TweetApp/src/ojdbc11-21.5.0.0.jar"/>
+	<classpathentry kind="output" path="TweetApp/bin"/>
+</classpath>
