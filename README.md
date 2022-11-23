@@ -28,16 +28,25 @@
 3.	Application will comprise of two menu
 
 a.	Introduction menu for Non-logged in user
+
 i.	Register
+
 ii.	Login
+
 iii.Forgot Password
 
 b.	Menu for logged in user
+
 i.	Post a tweet
+
 ii.	View my tweets
+
 iii.View all tweets
+
 iv.	View All Users
+
 v.	Reset Password
+
 vi.	Logout 
 
 4.	Menu must show iteratively after every operation
